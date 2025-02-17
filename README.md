@@ -2,7 +2,7 @@
 <img src="https://github.com/codebyrashel/codebyrashel/blob/main/Custom-banner.gif" alt="Custom-Banner">
 Utilizing 2.5+ Years of Experience with Clients like <strong>Hollywood Actor Patricia Tallman & Legendary Tennis Coach Rick Macci</strong> (Childhood Coach of the Williams Sisters & Other Top Athletes) to Build Impactful Web Experiences | Currently Learning Frontend Development, Data Structures, and Algorithms
 
-Hello! I'm a dedicated developer transitioning from a robust career in digital marketing to the dynamic world of front-end and full-stack development. With over 2.5 years of experience as an SEO Specialist and Digital Marketing Strategist, I’ve built a strong analytical mindset and a passion for crafting exceptional user experiences.
+<b>Hello!</b> I'm a dedicated developer transitioning from a robust career in digital marketing to the dynamic world of front-end and full-stack development. With over 2.5 years of experience as an SEO Specialist and Digital Marketing Strategist, I’ve built a strong analytical mindset and a passion for crafting exceptional user experiences.
 
 Throughout my career, I’ve had the opportunity to collaborate with high-profile clients, optimizing over 1,200 YouTube videos to enhance their visibility and improve search rankings. I’ve also developed data-driven strategies for multi-million-dollar companies in industries such as roofing and real estate, driving operational efficiency and boosting revenue.
 
