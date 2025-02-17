@@ -3,7 +3,7 @@ I am a results-driven front-end web development learner with over 2.5 years of e
 
 <div align="center">
 
-![Profile views](https://komarev.com/ghpvc/?username=harun181&color=red)
+![Profile views](https://komarev.com/ghpvc/?username=codebyrashel&color=red)
 
 </div>
 
