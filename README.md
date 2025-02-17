@@ -1,6 +1,15 @@
-# 💫 About Me:
-<h1>On a Journey From SEO Specialist & Digital Marketing Strategist to Full-Stack Developer</h1>
-I am a results-driven front-end web development learner with over 2.5 years of experience as an SEO Specialist and Digital Marketing Strategist. My background in digital marketing has equipped me with a strong analytical mindset, problem-solving skills, and a passion for creating impactful user experiences.<br><br>In my digital marketing career, I collaborated with notable clients such as Hollywood actor Patricia Tallman and legendary coach Rick Macci, optimizing over 1.2K YouTube videos to boost visibility and rankings. Additionally, I designed data-driven strategies for multi-million-dollar businesses, including roofing companies and real estate agencies, driving operational efficiency and revenue growth. A highlight of my career was achieving a 20K-subscriber increase and significantly boosting traffic for content creators within a single month.<br><br>Now, I am applying my dedication and growth mindset to front-end development, building skills in HTML, CSS, JavaScript, and modern frameworks. My goal is to master front-end development by the end of 2025, creating clean, efficient, and user-friendly web experiences.<br><br>I am a quick learner, a strong team player, and someone who values feedback and collaboration. I bring my passion for learning and discovery to every project, and I’m excited to connect with like-minded professionals to build something remarkable together.<br><br>Let’s make it happen.
+# I'm on a journey from an SEO Specialist & Digital Marketing Strategist to a Full-Stack Developer:
+Utilizing 2.5+ Years of Experience with Clients like Hollywood Actor Patricia Tallman & Legendary Tennis Coach Rick Macci (Childhood Coach of the Williams Sisters & Other Top Athletes) to Build Impactful Web Experiences | Currently Learning Frontend Development, Data Structures, and Algorithms
+
+Hello! I'm a dedicated developer transitioning from a robust career in digital marketing to the dynamic world of front-end and full-stack development. With over 2.5 years of experience as an SEO Specialist and Digital Marketing Strategist, I’ve built a strong analytical mindset and a passion for crafting exceptional user experiences.
+
+Throughout my career, I've partnered with high-profile clients—including Hollywood's Patricia Tallman and tennis icon Rick Macci—to optimize more than 1,200 YouTube videos, boosting their visibility and search rankings. I've also engineered data-driven strategies for multi-million-dollar enterprises in industries like roofing and real estate, driving significant operational improvements and revenue growth. One of my proudest achievements was increasing a content creator's subscriber base by 20K in just one month, alongside a remarkable traffic surge.
+
+Now, I'm channeling my expertise into front-end development, mastering HTML, CSS, JavaScript, and modern frameworks. My mission is to create clean, efficient, and user-friendly web experiences and become proficient in full-stack development by the end of 2025.
+
+I'm a quick learner, a collaborative team player, and a firm believer in continuous improvement through feedback and shared ideas. I'm excited to connect with like-minded professionals to build something remarkable together.
+
+Let’s make it happen!
 
 <div align="center">
 
