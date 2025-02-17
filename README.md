@@ -1,4 +1,4 @@
-![I am codebyrashel]https://www.canva.com/design/DAGfXp_Y55E/XrhtD8SkMmglHpY_HijcUg/watch?utm_content=DAGfXp_Y55E&utm_campaign=share_your_design&utm_medium=link2&utm_source=shareyourdesignpanel
+![I am codebyrashel] https://www.canva.com/design/DAGfXp_Y55E/XrhtD8SkMmglHpY_HijcUg/watch?utm_content=DAGfXp_Y55E&utm_campaign=share_your_design&utm_medium=link2&utm_source=shareyourdesignpanel
 
 # I'm on a journey from an SEO Specialist & Digital Marketing Strategist to a Full-Stack Developer:
 Utilizing 2.5+ Years of Experience with Clients like <strong>Hollywood Actor Patricia Tallman & Legendary Tennis Coach Rick Macci</strong> (Childhood Coach of the Williams Sisters & Other Top Athletes) to Build Impactful Web Experiences | Currently Learning Frontend Development, Data Structures, and Algorithms
