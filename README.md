@@ -1,5 +1,3 @@
-![I am harun181](https://github.com/harun181/harun181/blob/main/code.png)
-
 # I'm on a journey from an SEO Specialist & Digital Marketing Strategist to a Full-Stack Developer:
 Utilizing 2.5+ Years of Experience with Clients like <strong>Hollywood Actor Patricia Tallman & Legendary Tennis Coach Rick Macci</strong> (Childhood Coach of the Williams Sisters & Other Top Athletes) to Build Impactful Web Experiences | Currently Learning Frontend Development, Data Structures, and Algorithms
 
