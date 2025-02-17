@@ -1,7 +1,13 @@
 # 💫 About Me:
 I am a results-driven front-end web development learner with over 2.5 years of experience as an SEO Specialist and Digital Marketing Strategist. My background in digital marketing has equipped me with a strong analytical mindset, problem-solving skills, and a passion for creating impactful user experiences.<br><br>In my digital marketing career, I collaborated with notable clients such as Hollywood actor Patricia Tallman and legendary coach Rick Macci, optimizing over 1.2K YouTube videos to boost visibility and rankings. Additionally, I designed data-driven strategies for multi-million-dollar businesses, including roofing companies and real estate agencies, driving operational efficiency and revenue growth. A highlight of my career was achieving a 20K-subscriber increase and significantly boosting traffic for content creators within a single month.<br><br>Now, I am applying my dedication and growth mindset to front-end development, building skills in HTML, CSS, JavaScript, and modern frameworks. My goal is to master front-end development by the end of 2025, creating clean, efficient, and user-friendly web experiences.<br><br>I am a quick learner, a strong team player, and someone who values feedback and collaboration. I bring my passion for learning and discovery to every project, and I’m excited to connect with like-minded professionals to build something remarkable together.<br><br>Let’s make it happen.
 
-<div align="center">![Profile views](https://komarev.com/ghpvc/?username=codebyrashel&color=red)</div>
+<div align="center">
+
+![Profile views](https://komarev.com/ghpvc/?username=harun181&color=red)
+
+Skills: C / C++ / Java / PYTHON/ BOOTSTRAP / REACT / JS / HTML / CSS
+
+</div>
 
 
 ## 🌐 Socials:
