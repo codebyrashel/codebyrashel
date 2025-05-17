@@ -19,18 +19,24 @@ Hello there! I'm a former Digital Marketer turned aspiring **Frontend Developer*
 - 🚀 Currently honing my skills in modern frontend technologies, with backend learning on the horizon.
 
 
-## 🛠️ Skills
+## Skills
 
 ### Frontend
 - **Languages & Markup**: HTML5, CSS3
 - **Frameworks & Libraries**: Bootstrap, Tailwind CSS
 - **JavaScript**: ES6+ fundamentals (in-progress mastering)
 
-### In Progress / Next Up
-- JavaScript frameworks (React, Vue, or Angular)
-- State management (Redux, Vuex)
-- TypeScript
-- Build tools (Webpack, Vite)
+---
+
+# Current Status
+
+- 🧠 Learning: Advanced JavaScript (ES6+), DOM Manipulation
+- ⚙️ Mastered: HTML5, CSS3, Bootstrap, Tailwind CSS
+- 📈 Exploring: React, TypeScript, Git, and GitHub
+- 📚 Studying: Data Structures & Algorithms
+- 🎯 Goal: Become a proficient Full Stack Engineer by next year
+
+---
 
 ### Backend (Future Goals)
 - Node.js & Express
@@ -41,16 +47,14 @@ Hello there! I'm a former Digital Marketer turned aspiring **Frontend Developer*
 - Data Structures & Algorithms (ongoing)
 - Version control with Git & GitHub
 
+# 📌 Roadmap
 
-## 🎯 Roadmap
-
-1. Master core JavaScript (ES6+)
-2. Learn a modern frontend framework (React)
-3. Deep dive into state management & TypeScript
-4. Build full-featured frontend projects (portfolios, dashboards)
-5. Kick off backend basics: Node.js, databases, APIs
-6. Transition into Full Stack Developer/Engineer role by next year
-
+```
+✅ Build strong frontend foundation
+🔄 Dive deep into JavaScript & React
+🔜 Learn backend technologies
+🎯 Become a Full Stack Engineer
+```
 
 ## 💼 Digital Marketing Background
 
@@ -72,29 +76,13 @@ I believe this background is a unique advantage in crafting performant, SEO-frie
 
 ## 📫 How to Reach Me
 
-- GitHub: [codebyrashel](https://github.com/your-username)  
-- LinkedIn: [Your Name](https://linkedin.com/in/your-profile)  
-- Twitter: [@yourhandle](https://twitter.com/yourhandle)
-
+- GitHub: [codebyrashel](https://github.com/codebyrashel)  
+- LinkedIn: [Rashel Hossen]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/rashelhossen/))  
 
 ---
 
 > "The best way to predict the future is to invent it."  
 > — Alan Kay
-
-
-
-Utilizing 2.5+ Years of Experience with Clients like <strong>Hollywood Actor Patricia Tallman & Legendary Tennis Coach Rick Macci</strong> (Childhood Coach of the Williams Sisters & Other Top Athletes) to Build Impactful Web Experiences | Currently Learning Frontend Development, Data Structures, and Algorithms<br><br>
-
-<b>Hello!</b> I'm a dedicated developer transitioning from a robust career in digital marketing to the dynamic world of front-end and full-stack development. With over 2.5 years of experience as an SEO Specialist and Digital Marketing Strategist, I’ve built a strong analytical mindset and a passion for crafting exceptional user experiences.
-
-Throughout my career, I’ve had the opportunity to collaborate with high-profile clients, optimizing over 1,200 YouTube videos to enhance their visibility and improve search rankings. I’ve also developed data-driven strategies for multi-million-dollar companies in industries such as roofing and real estate, driving operational efficiency and boosting revenue.
-
-Now, I'm channeling my expertise into front-end development, mastering HTML, CSS, JavaScript, and modern frameworks. My mission is to create clean, efficient, and user-friendly web experiences and become proficient in full-stack development by the end of 2025.
-
-I'm a quick learner, a collaborative team player, and a firm believer in continuous improvement through feedback and shared ideas. I'm excited to connect with like-minded professionals to build something remarkable together.
-
-Let’s make it happen!
 
 <div align="center">
 
