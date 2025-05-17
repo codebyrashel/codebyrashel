@@ -1,4 +1,6 @@
-# I'm on a journey from an SEO Specialist & Digital Marketing Strategist to a Full-Stack Developer:
+# Frontend Developer in Training &#8208; Aspiring Full Stack Engineer
+
+<img src="https://github.com/codebyrashel/codebyrashel/blob/main/Custom-banner.gif" alt="Custom-Banner">
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <picture>
@@ -7,7 +9,81 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/codebyrashel/codebyrashel/output/github-snake.svg" />
 </picture>
 
-<img src="https://github.com/codebyrashel/codebyrashel/blob/main/Custom-banner.gif" alt="Custom-Banner">
+
+## 👋 About Me
+
+Hello there! I'm a former Digital Marketer turned aspiring **Frontend Developer** (soon-to-be Full Stack Engineer). After 3+ years specializing in Search Engine Optimization (SEO) and collaborating with high-profile clients like Hollywood Actor Patricia Tallman and Legendary Tennis Coach Rick Macci (childhood coach of the Williams Sisters & other top athletes), I've embarked on a brand-new journey into web development.
+
+- 📚 Self-taught through online courses, hands-on projects, and a passion for problem-solving.
+- 🎓 Dropped out to follow my true passion for coding and engineering.
+- 🚀 Currently honing my skills in modern frontend technologies, with backend learning on the horizon.
+
+
+## 🛠️ Skills
+
+### Frontend
+- **Languages & Markup**: HTML5, CSS3
+- **Frameworks & Libraries**: Bootstrap, Tailwind CSS
+- **JavaScript**: ES6+ fundamentals (in-progress mastering)
+
+### In Progress / Next Up
+- JavaScript frameworks (React, Vue, or Angular)
+- State management (Redux, Vuex)
+- TypeScript
+- Build tools (Webpack, Vite)
+
+### Backend (Future Goals)
+- Node.js & Express
+- Databases (MongoDB, PostgreSQL)
+- RESTful APIs & GraphQL
+
+### CS Fundamentals
+- Data Structures & Algorithms (ongoing)
+- Version control with Git & GitHub
+
+
+## 🎯 Roadmap
+
+1. Master core JavaScript (ES6+)
+2. Learn a modern frontend framework (React)
+3. Deep dive into state management & TypeScript
+4. Build full-featured frontend projects (portfolios, dashboards)
+5. Kick off backend basics: Node.js, databases, APIs
+6. Transition into Full Stack Developer/Engineer role by next year
+
+
+## 💼 Digital Marketing Background
+
+My experience as an SEO-specialist has given me:
+- A strong analytical mindset and keen attention to detail
+- Experience collaborating with cross-functional teams & high-profile clients
+- Expertise in optimizing websites for performance and user experience
+
+I believe this background is a unique advantage in crafting performant, SEO-friendly web applications.
+
+
+## 🚧 Projects
+
+> *Projects will be showcased here as I build and deploy them. Stay tuned!*  
+> - Personal Portfolio  
+> - Responsive UI Clones  
+> - Interactive Web Components
+
+
+## 📫 How to Reach Me
+
+- GitHub: [codebyrashel](https://github.com/your-username)  
+- LinkedIn: [Your Name](https://linkedin.com/in/your-profile)  
+- Twitter: [@yourhandle](https://twitter.com/yourhandle)
+
+
+---
+
+> "The best way to predict the future is to invent it."  
+> — Alan Kay
+
+
+
 Utilizing 2.5+ Years of Experience with Clients like <strong>Hollywood Actor Patricia Tallman & Legendary Tennis Coach Rick Macci</strong> (Childhood Coach of the Williams Sisters & Other Top Athletes) to Build Impactful Web Experiences | Currently Learning Frontend Development, Data Structures, and Algorithms<br><br>
 
 <b>Hello!</b> I'm a dedicated developer transitioning from a robust career in digital marketing to the dynamic world of front-end and full-stack development. With over 2.5 years of experience as an SEO Specialist and Digital Marketing Strategist, I’ve built a strong analytical mindset and a passion for crafting exceptional user experiences.
