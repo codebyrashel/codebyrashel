@@ -1,6 +1,6 @@
-# Frontend Developer in Training &#8208; Aspiring Full Stack Engineer
-
 <img src="https://github.com/codebyrashel/codebyrashel/blob/main/Banner.png" alt="Custom-Banner">
+
+# Frontend Developer in Training &#8208; Aspiring Full Stack Engineer
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <picture>
