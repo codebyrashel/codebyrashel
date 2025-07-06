@@ -1,4 +1,4 @@
-<img src="https://github.com/codebyrashel/codebyrashel/blob/main/Banner.png" alt="Custom-Banner">
+<img src="https://github.com/codebyrashel/codebyrashel/blob/main/ban.png" alt="Custom-Banner">
 
 # Frontend Developer in Training &#8208; Aspiring Full Stack Engineer
 
