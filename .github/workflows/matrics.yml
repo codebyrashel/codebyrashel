@@ -46,7 +46,7 @@ jobs:
           plugin_anilist_medias: anime, manga
           plugin_anilist_sections: favorites
           plugin_anilist_shuffle: yes
-          plugin_anilist_user: .Rashel47.9xDU$sd5hEEv_WQ
+          plugin_anilist_user: Rashel47
           plugin_calendar: yes
           plugin_calendar_limit: 1
           plugin_followup: yes
