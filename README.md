@@ -11,15 +11,6 @@
 
 ![Metrics](/github-metrics.svg)
 
-<p align="center"><img src="/github-metrics.svg" alt="Metrics" width="400"></p>
-
-<picture>
-  <img src="/github-metrics.svg" alt="Metrics">
-</picture>
-
-
-<img src="/github-metrics.svg" alt="Metrics" width="100%">
-
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://web.facebook.com/codebyrashel) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rashelhossen/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/https://www.reddit.com/user/CodeByRashel/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@https://www.tiktok.com/@codebyrashel) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@remote_outlander) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:codebyrashel@gmail.com) 
 
