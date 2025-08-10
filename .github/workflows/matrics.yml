@@ -28,7 +28,7 @@ jobs:
           # Options
           template: classic
           base: header, activity, community, repositories, metadata
-          config_display: large
+          config_display: columns
           config_timezone: Asia/Dhaka
           plugin_achievements: yes
           plugin_achievements_display: detailed
