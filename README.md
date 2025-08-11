@@ -1,4 +1,4 @@
-<img src="https://github.com/codebyrashel/codebyrashel/blob/main/ban.png" alt="Custom-Banner">
+<!-- <img src="https://github.com/codebyrashel/codebyrashel/blob/main/ban.png" alt="Custom-Banner"> -->
 
 ![Metrics](/github-metrics.svg)
 
