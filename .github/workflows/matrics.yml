@@ -98,4 +98,6 @@ jobs:
           plugin_topics_limit: 25
           plugin_topics_mode: icons
           plugin_topics_sort: stars
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
           plugin_traffic: yes
