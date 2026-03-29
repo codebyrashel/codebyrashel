@@ -149,6 +149,6 @@
 
 𝖧𝗈𝖻𝖻𝗂𝖾𝗌: `Reading`, `A𝗇𝗂𝗆𝖾`, `T𝗋𝖺𝗏𝖾𝗅`, `G𝖺𝗆𝗂𝗇𝗀`
 
-<img src="https://ghchart.rshah.org/codebyrashel" alt="GitHub Contribution Graph" width="650"/>
+<img src="https://ghchart.rshah.org/codebyrashel" alt="GitHub Contribution Graph" width="600"/>
 <img align="right" height="90" src="https://media1.tenor.com/m/5JaxuOcCebQAAAAd/cartethyia-swordplay.gif" />
 
