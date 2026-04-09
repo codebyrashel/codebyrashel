@@ -9,123 +9,40 @@
 
 𝖨’𝗆 [𝖱𝖺𝗌𝗁𝖾𝗅](https://rashelworkshop.vercel.app/), a f𝗈𝗋𝗆𝖾𝗋 𝖣𝗂𝗀𝗂𝗍𝖺𝗅 𝖬𝖺𝗋𝗄𝖾𝗍𝖾𝗋 and a 𝗋𝖾𝗀𝗎𝗅𝖺𝗋 𝗀𝗎𝗒. 𝖨'𝗆 𝗇𝗈𝗍 𝗌𝗉𝖾𝖼𝗂𝖺𝗅 𝖻𝗎𝗍 𝖨'𝗆 𝖺 𝗁𝖺𝗋𝖽 𝗐𝗈𝗋𝗄𝖾𝗋 𝖺𝗇𝖽 𝖺 𝖿𝖺𝗌𝗍 𝗅𝖾𝖺𝗋𝗇𝖾𝗋 𝗅𝗂𝗄𝖾 𝗆𝗈𝗌𝗍 𝗈𝖿 𝗍𝗁𝖾 𝖽𝖾𝗏𝖾𝗅𝗈𝗉𝖾𝗋𝗌...
 
-<p align="left">Tools & Technologies in My Workflow</p>
+**Tech stacks I know are,**
+
+- 𝗙𝗿𝗼𝗻𝘁𝗲𝗻𝗱: 𝖱𝖾𝖺𝖼𝗍, 𝖭𝖾𝗑𝗍.𝗃𝗌, 𝖳𝖺𝗂𝗅𝗐𝗂𝗇𝖽
+- 𝗕𝗮𝗰𝗸𝗲𝗻𝗱: 𝖭𝗈𝖽𝖾.𝗃𝗌, 𝖤𝗑𝗉𝗋𝖾𝗌𝗌.𝗃𝗌
+- 𝗟𝗮𝗇𝗀𝗎𝗮𝗀𝗲𝘀: 𝖩𝖺𝗏𝖺𝖲𝖼𝗋𝗂𝗉𝗍
+- 𝗗𝗮𝘁𝗮𝗯𝗮𝘀𝗲: 𝖯𝗈𝗌𝗍𝗀𝗋𝖾𝖲𝖰𝖫, 𝖬𝗈𝗇𝗀𝗈𝖣𝖡
+- 𝗢𝗥𝗠: 𝖯𝗋𝗂𝗌𝗆𝖺
+- 𝗩𝗲𝗋𝘀𝗂𝗈𝗇 𝗖𝗈𝗇𝘁𝗋𝗈𝗅: 𝖦𝗂𝗍, 𝖦𝗂𝗍𝖧𝗎𝖻, 𝖡𝗂𝗍𝖻𝗎𝖼𝗄𝖾𝗍
+- 𝗢𝗦 & 𝗘𝗻𝘃𝗂𝗋𝗈𝗇𝗆𝗂𝗇𝗍𝘀: 𝖫𝗂𝗇𝗎𝗑, 𝖥𝖾𝖽𝗈𝗋𝖺 43, 𝖵𝗌𝖢𝗈𝖽𝖾, 𝖬𝖺𝗋𝗄𝖽𝗈𝗐𝗇, 𝖭𝗈𝗍𝗂𝗈𝗇
+
+
+**Familier / explored / previously worked with are,**
+
+- 𝗙𝗿𝗼𝗻𝘁𝗲𝗻𝗱: 𝖲𝖺𝗌𝗌, 𝖡𝗈𝗈𝗍𝗌𝗍𝗋𝖺, 𝖵𝗎𝖾, 𝖭𝗎𝗑𝗍.𝗃𝗌
+- 𝗕𝗮𝗰𝗸𝗲𝗻𝗱:  𝖭𝖾𝗌𝗍𝖩𝖲, Golang (Go)
+- 𝗟𝗮𝗇𝗀𝗎𝗮𝗀𝗲𝘀: 𝖯𝗒𝗍𝗁𝗈𝗇, JavaScript, Go
+- 𝗗𝗮𝘁𝗮𝗯𝗮𝘀𝗲: 𝖬𝗒𝖲𝖰𝖫, 𝖲𝗊𝗅𝗂𝗍𝖾
+- 𝗢𝗥𝗠: 𝖳𝗒𝗉𝖾𝖮𝗋𝗆, 𝖲𝗊𝗅𝖠𝗅𝖼𝗁𝖾𝗆𝗒
+- 𝗧𝗼𝗼𝗹𝘀 & 𝗪𝗼𝗿𝗸𝗳𝗅𝗈𝘄: 𝖥𝗂𝗀𝗆𝖺, 𝖢𝖺𝗇𝗏𝖺, 𝖲𝗅𝖺𝖼𝗄, 𝖵𝗂𝗆, 𝖠𝗉𝗉𝗐𝗋𝗂𝗍𝖾
+- 𝗩𝗲𝗋𝘀𝗂𝗈𝗇 𝗖𝗈𝗇𝘁𝗋𝗈𝗅: 𝖡𝗂𝗍𝖻𝗎𝖼𝗄𝖾𝗍, CI/CD, Github Action
+
+𝗢𝗦 & 𝗘𝗻𝘃𝗂𝗋𝗈𝗇𝗆𝗂𝗇𝗍𝘀: 𝖫𝗂𝗇𝗎𝗑, 𝖥𝖾𝖽𝗈𝗋𝖺 43, 𝖠𝗋𝖼𝗁 𝖫𝗂𝗇𝗎𝗑, 𝖴𝖻𝗎𝗇𝗍𝗎, 𝖣𝖾𝖻𝗂𝖺𝗇, 𝖭𝗂𝗑𝖮𝖲, 𝖶𝗂𝗇𝖽𝗈𝗐𝗌, 𝖵𝗌𝖢𝗈𝖽𝖾, 𝖬𝖺𝗋𝗄𝖽𝗈𝗐𝗇, 𝖭𝗈𝗍𝗂𝗈𝗇
+
+**𝖢𝗎𝗋𝗋𝖾𝗇𝗍𝗅𝗒 𝗟𝗲𝗮𝗋𝗇𝗂𝗇𝗀 / 𝗘𝖷𝗉𝗅𝗈𝗋𝗂𝗇𝗀:**
+
+- 𝗕𝗮𝗰𝗸𝗲𝗇𝗱 / 𝗟𝗮𝗇𝗀𝗎𝗮𝗀𝗲𝘀: 𝖦𝗈
+
+- 𝗜𝗻𝗳𝗋𝗮 / 𝗧𝗲𝘀𝘁𝗶𝗻𝗀: 𝖠𝗪𝗦, 𝖭𝗀𝗂𝗇𝗑, 𝖩𝖾𝗌𝗍
 
 ###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="20" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="20" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="20" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="20" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="20" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="20" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="20" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="20" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="20" alt="sass logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="20" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="20" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="20" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="20" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="20" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="20" alt="jest logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="20" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="20" alt="nginx logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="20" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="20" alt="sqlite logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="20" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" height="20" alt="sqlalchemy logo"  />
-</div>
+𝖨’𝗏𝖾 𝗀𝗈𝗍 𝖺 𝖻𝗎𝗇𝖼𝗁 𝗈𝖿 𝗉𝗋𝗈𝗃𝖾𝖼𝗍𝗌, 𝖻𝗎𝗍 𝗆𝗒 𝖿𝖺𝗏𝗈𝗋𝗂𝗍𝖾 𝗂𝗌 𝗍𝗁𝖾 𝗽𝗿𝗼𝗷𝗲𝗰𝘁 [Classified.](#)
 
-###
-
-<p align="left">Tools & Frameworks I Use & Have Experience With</p>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/appwrite/appwrite-original.svg" height="30" alt="appwrite logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="30" alt="fastapi logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="30" alt="materialui logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="30" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" height="30" alt="nuxtjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="30" alt="slack logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" alt="vuejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" height="30" alt="bitbucket logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="30" alt="gitlab logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="30" alt="socketio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="30" alt="vim logo"  />
-</div>
-
-###
-
-<p align="left">OS & Environments I Use & Have Experience With</p>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" height="30" alt="archlinux logo"  />
-<img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" height="30" alt="fedora logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="30" alt="ubuntu logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="30" alt="markdown logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="30" alt="notion logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="30" alt="windows8 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nixos/nixos-original.svg" height="30" alt="nixos logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="30" alt="debian logo"  />
-</div>
-
-###
+𝖧𝗈𝖻𝖻𝗂𝖾𝗌: `Reading`, `A𝗇𝗂𝗆𝖾`, `T𝗋𝖺𝗏𝖾𝗅`, `G𝖺𝗆𝗂𝗇𝗀`
 
 <p align="left">Where to Find Me</p>
 
@@ -150,10 +67,3 @@
 </div>
 
 ###
-
-
-###
-
-𝖨’𝗏𝖾 𝗀𝗈𝗍 𝖺 𝖻𝗎𝗇𝖼𝗁 𝗈𝖿 𝗉𝗋𝗈𝗃𝖾𝖼𝗍𝗌, 𝖻𝗎𝗍 𝗆𝗒 𝖿𝖺𝗏𝗈𝗋𝗂𝗍𝖾 𝗂𝗌 𝗍𝗁𝖾 𝗽𝗿𝗼𝗷𝗲𝗰𝘁 [Code Nebula.](#)
-
-𝖧𝗈𝖻𝖻𝗂𝖾𝗌: `Reading`, `A𝗇𝗂𝗆𝖾`, `T𝗋𝖺𝗏𝖾𝗅`, `G𝖺𝗆𝗂𝗇𝗀`
