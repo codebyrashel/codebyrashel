@@ -2,9 +2,8 @@
 <img src="https://ghchart.rshah.org/codebyrashel" alt="GitHub Contribution Graph" width="600"/> <img align="right" height="95" src="https://media1.tenor.com/m/5JaxuOcCebQAAAAd/cartethyia-swordplay.gif" />
 
 <p align="center">
-  <img src="https://leetcode-stats.vercel.app/api?username=codebyrashel&theme=dark" width="48%" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codebyrashel&" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=codebyrashel&show_icons=true&locale=en" alt="codebyrashel" width="45%" style="margin-right: 10px;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codebyrashel" alt="streak" width="48%" />
 </p>
 
 𝖨’𝗆 [𝖱𝖺𝗌𝗁𝖾𝗅](https://rashelworkshop.vercel.app/), a f𝗈𝗋𝗆𝖾𝗋 𝖣𝗂𝗀𝗂𝗍𝖺𝗅 𝖬𝖺𝗋𝗄𝖾𝗍𝖾𝗋 and a 𝗋𝖾𝗀𝗎𝗅𝖺𝗋 𝗀𝗎𝗒. 𝖨'𝗆 𝗇𝗈𝗍 𝗌𝗉𝖾𝖼𝗂𝖺𝗅 𝖻𝗎𝗍 𝖨'𝗆 𝖺 𝗁𝖺𝗋𝖽 𝗐𝗈𝗋𝗄𝖾𝗋 𝖺𝗇𝖽 𝖺 𝖿𝖺𝗌𝗍 𝗅𝖾𝖺𝗋𝗇𝖾𝗋 𝗅𝗂𝗄𝖾 𝗆𝗈𝗌𝗍 𝗈𝖿 𝗍𝗁𝖾 𝖽𝖾𝗏𝖾𝗅𝗈𝗉𝖾𝗋𝗌...
@@ -44,27 +43,3 @@ OS & Environment: Linux, Fedora 43, Arch Linux, Ubuntu, Debian, NixOS, Windows, 
 𝖨’𝗏𝖾 𝗀𝗈𝗍 𝖺 𝖻𝗎𝗇𝖼𝗁 𝗈𝖿 𝗉𝗋𝗈𝗃𝖾𝖼𝗍𝗌, 𝖻𝗎𝗍 𝗆𝗒 𝖿𝖺𝗏𝗈𝗋𝗂𝗍𝖾 𝗂𝗌 𝗍𝗁𝖾 𝗽𝗿𝗼𝗷𝗲𝗰𝘁 [Classified.](#)
 
 𝖧𝗈𝖻𝖻𝗂𝖾𝗌: `Reading`, `A𝗇𝗂𝗆𝖾`, `T𝗋𝖺𝗏𝖾𝗅`, `G𝖺𝗆𝗂𝗇𝗀`
-
-<p align="left">Where to Find Me</p>
-
-###
-
-<div align="left">
-  <a href="https://www.youtube.com/@journey_through_learning" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="40" height="28" alt="youtube logo"  />
-  </a>
-  <a href="https://discord.com/invite/Nvdc6YhwU5" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="40" height="28" alt="discord logo"  />
-  </a>
- <a href="mailto:rothstaylor@yahoo.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" height="28" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/rashelhossen/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="28" alt="linkedin logo"  />
-  </a>
-  <a href="https://web.facebook.com/profile.php?id=61582678086885" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="40" height="28" alt="facebook logo"  />
-  </a>
-</div>
-
-###
