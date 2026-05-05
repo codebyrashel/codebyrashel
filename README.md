@@ -1,9 +1,3 @@
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=codebyrashel&theme=tokyonight" width="100%" />
-</p>
-
-
 <img src="https://ghchart.rshah.org/codebyrashel" alt="GitHub Contribution Graph" width="600"/> <img align="right" height="100" src="https://media1.tenor.com/m/5JaxuOcCebQAAAAd/cartethyia-swordplay.gif" />
 
 **Tech Stack**
@@ -33,3 +27,9 @@ OS & Environment: Linux, Fedora 43, Arch Linux, Ubuntu, NixOS, Windows, VSCode, 
 𝖨’𝗏𝖾 𝗀𝗈𝗍 𝖺 𝖻𝗎𝗇𝖼𝗁 𝗈𝖿 𝗉𝗋𝗈𝗃𝖾𝖼𝗍𝗌, 𝖻𝗎𝗍 𝗆𝗒 𝖿𝖺𝗏𝗈𝗋𝗂𝗍𝖾 𝗂𝗌 𝗍𝗁𝖾 𝗽𝗿𝗼𝗷𝗲𝗰𝘁 [Classified.](#)
 
 𝖧𝗈𝖻𝖻𝗂𝖾𝗌: `Reading`, `A𝗇𝗂𝗆𝖾`, `T𝗋𝖺𝗏𝖾𝗅`, `G𝖺𝗆𝗂𝗇𝗀`
+
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=codebyrashel&theme=tokyonight" width="100%" />
+</p>
+
