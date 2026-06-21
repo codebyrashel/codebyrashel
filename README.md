@@ -20,8 +20,7 @@ OS             : Linux (Fedora, Arch Linux, Ubuntu), Windows
 
 **Backend / Languages** : Nestjs, Go, WebSockets
 
-**Cloud & Infrastructure** : Kubernetes, AWS, Nginx<img align="right" height="70" src="https://media1.tenor.com/m/5JaxuOcCebQAAAAd/cartethyia-swordplay.gif" />
+**Cloud & Infrastructure** : Kubernetes, AWS, Nginx
 
-**Architecture & Systems** : Microservices, Event-Driven Architecture, Caching, Message Queues
-
+**Architecture & Systems** : Microservices, Event-Driven Architecture, Caching, Message Queues<img align="right" height="70" src="https://media1.tenor.com/m/5JaxuOcCebQAAAAd/cartethyia-swordplay.gif" />
 **Computer Science** : Data Structures & Algorithms, Networking, Operating Systems, System Design
