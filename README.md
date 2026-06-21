@@ -26,4 +26,4 @@ OS             : Linux (Fedora, Arch Linux, Ubuntu), Windows
 
 **Computer Science** : Data Structures & Algorithms, Networking, Operating Systems, System Design
 
-<img align="right" height="99" src="https://media1.tenor.com/m/5JaxuOcCebQAAAAd/cartethyia-swordplay.gif" />
+<img align="right" height="80" src="https://media1.tenor.com/m/5JaxuOcCebQAAAAd/cartethyia-swordplay.gif" />
