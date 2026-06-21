@@ -11,8 +11,7 @@ Database       : PostgreSQL, Redis, MongoDB, SQLite
 ORM            : Prisma, TypeORM
 Cloud & Infra  : Docker, Docker Compose, Nginx, AWS
 Testing        : Jest, Unit Testing, Integration Testing
-Observability  : Prometheus, Grafana, OpenTelemetry
-Workflow       : Git, GitHub, GitHub Actions, Linux, Vim, Postman, Figma, Slack
+Workflow       : Git, GitHub, GitHub Actions
 OS             : Linux (Fedora, Arch Linux, Ubuntu), Windows
 ```
 
