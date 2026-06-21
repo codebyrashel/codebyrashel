@@ -1,27 +1,29 @@
-<img src="https://ghchart.rshah.org/codebyrashel" alt="GitHub Contribution Graph" width="600"/> <img align="right" height="100" src="https://media1.tenor.com/m/5JaxuOcCebQAAAAd/cartethyia-swordplay.gif" />
+𝖨’𝗆 [𝖱𝖺𝗌𝗁𝖾𝗅](https://rashelworkshop.vercel.app/), a f𝗈𝗋𝗆𝖾𝗋 𝖣𝗂𝗀𝗂𝗍𝖺𝗅 𝖬𝖺𝗋𝗄𝖾𝗍𝖾𝗋 and a 𝗋𝖾𝗀𝗎𝗅𝖺𝗋 𝗀𝗎𝗒. 𝖨'𝗆 𝗇𝗈𝗍 𝗌𝗉𝖾𝖼𝗂𝖺𝗅 𝖻𝗎𝗍 𝖨'𝗆 𝖺 𝗁𝖺𝗋𝖽 𝗐𝗈𝗋𝗄𝖾𝗋 𝖺𝗇𝖽 𝖺 𝖿𝖺𝗌𝗍 𝗅𝖾𝖺𝗋𝗇𝖾𝗋 𝗅𝗂𝗄𝖾 𝗆𝗈𝗌𝗍 𝗈𝖿 𝗍𝗁𝖾 𝖽𝖾𝗏𝖾𝗅𝗈𝗉𝖾𝗋𝗌... I believe consistency beats talent when talent doesn't work hard.
 
-𝖨’𝗆 [𝖱𝖺𝗌𝗁𝖾𝗅](https://rashelworkshop.vercel.app/), a f𝗈𝗋𝗆𝖾𝗋 𝖣𝗂𝗀𝗂𝗍𝖺𝗅 𝖬𝖺𝗋𝗄𝖾𝗍𝖾𝗋 and a 𝗋𝖾𝗀𝗎𝗅𝖺𝗋 𝗀𝗎𝗒. 𝖨'𝗆 𝗇𝗈𝗍 𝗌𝗉𝖾𝖼𝗂𝖺𝗅 𝖻𝗎𝗍 𝖨'𝗆 𝖺 𝗁𝖺𝗋𝖽 𝗐𝗈𝗋𝗄𝖾𝗋 𝖺𝗇𝖽 𝖺 𝖿𝖺𝗌𝗍 𝗅𝖾𝖺𝗋𝗇𝖾𝗋 𝗅𝗂𝗄𝖾 𝗆𝗈𝗌𝗍 𝗈𝖿 𝗍𝗁𝖾 𝖽𝖾𝗏𝖾𝗅𝗈𝗉𝖾𝗋𝗌...
-
-**Tech Stack**
 
 ```
-Frontend        : React, Next.js, Tailwind, Bootstrap, Vue  
-Backend         : Node.js, Express.js, NestJS, Golang (Go)  
-Languages       : JavaScript, Go  
-Database        : PostgreSQL, MongoDB, MySQL, SQLite  
-ORM             : Prisma, TypeORM, SQLAlchemy
-Infra           : Docker
-Tools & Workflow: Figma, Canva, Slack, Vim, Appwrite  
-Version Control : Git, GitHub, GitLab Bitbucket, CI/CD, GitHub Actions
-OS              : Linux (Fedora 43, Arch Linux, Ubuntu, NixOS), Windows
+Tech Stack
+
+Backend        : Node.js, NestJS, Express.js, Go
+Frontend       : React, Next.js, Tailwind CSS
+Languages      : TypeScript, JavaScript, Go, SQL, Python
+Database       : PostgreSQL, Redis, MongoDB, SQLite
+ORM            : Prisma, TypeORM
+Cloud & Infra  : Docker, Docker Compose, Nginx, AWS
+Testing        : Jest, Unit Testing, Integration Testing
+Observability  : Prometheus, Grafana, OpenTelemetry
+Workflow       : Git, GitHub, GitHub Actions, Linux, Vim, Postman, Figma, Slack
+OS             : Linux (Fedora, Arch Linux, Ubuntu), Windows
 ```
 
-**𝖢𝗎𝗋𝗋𝖾𝗇𝗍𝗅𝗒 𝗟𝗲𝗮𝗋𝗇𝗂𝗇𝗀 / 𝗘𝖷𝗉𝗅𝗈𝗋𝗂𝗇𝗀:**
+### Currently Learning / Exploring
 
-- 𝗕𝗮𝗰𝗸𝗲𝗇𝗱 / 𝗟𝗮𝗇𝗀𝗎𝗮𝗀𝗲𝘀: 𝖦𝗈
+**Backend / Languages** : Nestjs, Go, WebSockets
 
-- 𝗜𝗻𝗳𝗋𝗮 / 𝗧𝗲𝘀𝘁𝗶𝗻𝗀: 𝖠𝗪𝗦, 𝖭𝗀𝗂𝗇𝗑, 𝖩𝖾𝗌𝗍
+**Cloud & Infrastructure** : Kubernetes, AWS, Nginx
 
-###
+**Architecture & Systems** : Microservices, Event-Driven Architecture, Caching, Message Queues
 
-𝖨’𝗏𝖾 𝗀𝗈𝗍 𝖺 𝖻𝗎𝗇𝖼𝗁 𝗈𝖿 𝗉𝗋𝗈𝗃𝖾𝖼𝗍𝗌, 𝖻𝗎𝗍 𝗆𝗒 𝖿𝖺𝗏𝗈𝗋𝗂𝗍𝖾 𝗂𝗌 𝗍𝗁𝖾 𝗽𝗿𝗼𝗷𝗲𝗰𝘁 [Classified.](#)
+**Computer Science** : Data Structures & Algorithms, Networking, Operating Systems, System Design
+
+<img align="right" height="99" src="https://media1.tenor.com/m/5JaxuOcCebQAAAAd/cartethyia-swordplay.gif" />
