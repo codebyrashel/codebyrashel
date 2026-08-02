@@ -1,10 +1,7 @@
 𝖨’𝗆 [𝖱𝖺𝗌𝗁𝖾𝗅](https://rashelworkshop.vercel.app/), a full-stack developer building production-ready applications. Before software, I worked in digital marketing
 
-
-### Stack I work in day to day
-
 ```
-Tech Stack
+Stack I work in day to day
 
 Backend        : Node.js, NestJS, Express.js, Go
 Frontend       : React, Next.js, Tailwind CSS
@@ -20,8 +17,6 @@ I'm a regular guy. I'm not special. I'm not a fast learner, but I'm persistent. 
 
 
 ### Currently Learning / Exploring
-
-**Backend / Languages** : Nestjs, Go, WebSockets
 
 **Cloud & Infrastructure** : Kubernetes, AWS, Nginx
 
